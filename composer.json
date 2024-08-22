@@ -1,0 +1,25 @@
+{
+    "name": "achei/disablecustomer",
+    "description": "Achei DisableCustomer",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Guilherme",
+            "email": "guilherme@acheipneus.com.br",
+            "homepage": "https://www.acheipneus.com.br/"
+        }
+    ],
+    "license": [
+        "OSL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Achei\\DisableCustomer\\": ""
+        }
+    }
+}
+
