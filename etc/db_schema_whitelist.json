@@ -1,0 +1,7 @@
+{
+    "customer_entity": {
+        "column": {
+            "customer_disabled": true
+        }
+    }
+}
